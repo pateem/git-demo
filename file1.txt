@@ -1,2 +1,5 @@
 git commit --amend
+- used to correct last commit, you might need to use --force when pushing
 
+git reset HEAD˜
+- remove last commit
