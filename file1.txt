@@ -1,3 +1,2 @@
 git commit --amend
-- used to correct last commit
 
