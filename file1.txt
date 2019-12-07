@@ -3,3 +3,4 @@ git commit --amend
 
 git reset HEAD˜
 - remove last commit
+added in master
